@@ -8,6 +8,7 @@ Just a simple "Idea List" Application to aid in the learning of Ruby, Rails and 
 
 * Git is used to assist in Version control
 
+--This is a small edit to check git--
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
